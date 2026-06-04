@@ -1,9 +1,5 @@
-# Proyecto_ECOGREEN
-Perfecto Byron 🔥 aquí tienes una versión **más completa pero aún atractiva para reclutadores en GitHub** (equilibrada 👇):
 
-***
-
-#AutoGreen – Smart Greenhouse Control System
+# AutoGreen
 
 **AutoGreen** es un sistema automatizado basado en Arduino diseñado para monitorear y controlar variables ambientales clave en cultivos o espacios controlados, optimizando el cuidado de plantas de forma inteligente.
 
@@ -28,7 +24,7 @@ Perfecto Byron 🔥 aquí tienes una versión **más completa pero aún atractiv
 
 ***
 
-## ⚙️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 * **Arduino (C/C++)**
 * Sensores:
@@ -55,17 +51,17 @@ El sistema opera de forma autónoma tomando decisiones en tiempo real:
 
 ***
 
-## 📊 Resultado del proyecto
+## Resultado del proyecto
 
-* ✅ Sistema completamente funcional
-* ✅ Automatización de múltiples variables ambientales
-* ✅ Respuesta en tiempo real
-* ✅ Integración correcta de sensores y actuadores
-* ✅ Interfaz clara para monitoreo
+* Sistema completamente funcional
+* Automatización de múltiples variables ambientales
+* Respuesta en tiempo real
+* Integración correcta de sensores y actuadores
+* Interfaz clara para monitoreo
 
 ***
 
-## 🧪 Pruebas realizadas
+## Pruebas realizadas
 
 * Activación de ventiladores por temperatura
 * Control de bomba mediante relay
@@ -81,5 +77,4 @@ El sistema opera de forma autónoma tomando decisiones en tiempo real:
 **Byron Josué Rodríguez Reyes**  
 **Cesar Daniel Secaida Rodriguez**  
 
-lutadores 🚀
 
